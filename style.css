@@ -1,0 +1,102 @@
+header {
+  background-color: bisque;
+  height: 100px;
+}
+div {
+  text-align: center;
+  padding: 50px;
+}
+img {
+  height: auto;
+  width: auto;
+  max-width: 140px;
+  max-height: 140px;
+}
+
+.sobre {
+  font-size: 22px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.sobre h2 {
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.sobre p {
+  display: inline-block;
+  width: 650px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.sobre img {
+  height: auto;
+  width: auto;
+  max-width: 350px;
+  max-height: 350px;
+  margin-left: 150px;
+}
+
+.separador {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: bisque;
+  height: 50px;
+}
+.topico {
+  padding: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.caixa li {
+  display: inline-block;
+  text-align: center;
+  width: 500px;
+  vertical-align: top;
+  margin: 0 1.5%;
+  padding: 30px 10px;
+  box-sizing: border-box;
+}
+.caixa img:hover {
+  transform: scale(1.5);
+}
+.Nomes {
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.lista-poderes li {
+  display: inline-block;
+  text-align: center;
+  width: 20%;
+  vertical-align: top;
+  margin: 0 1%;
+  padding: 15px 10px;
+  box-sizing: border-box;
+  font-size: 22px;
+}
+.lista-poderes li:hover {
+  color: blue;
+}
+.fotos li {
+  display: inline-block;
+  text-align: center;
+  width: 20%;
+  vertical-align: top;
+  margin: 0 1.5%;
+  padding: 30px 10px;
+  box-sizing: border-box;
+}
+
+.fotos img {
+  height: auto;
+  width: auto;
+  max-width: 400px;
+  max-height: 400px;
+  vertical-align: top;
+}
